@@ -1,13 +1,14 @@
 # Time-series-co-phieu-cua-cong-ty-dau-khi
 Data: https://drive.google.com/drive/folders/1DKYlLoQ8hgxPVFxbjZrGiOOTqcqK4CqW?usp=sharing
 
-Mô tả:
-Đối tượng là cổ phiếu dầu khí trên thị trường tài chính. 
-Bài tập trung phát triển mô hình kỹ thuật sử dụng dự báo giá & lợi nhuận trong tương lai, liên quan đến thử nghiệm độ chính xác mô hình và hiệu suất.
+Describe:
+The subject is oil and gas stocks on the financial market.
+The paper focuses on developing technical models using future price & profit forecasts, involving testing of model accuracy and performance.
 
-Sử dụng thuật toán: 
-- Radomforest
-- Kỹ thuật Ensemble để phân loại và dữ đoán kết hợp với cây quyết định. 
+
+Using algorithm:
+- Random Forest
+- Ensemble technique for classification and prediction combined with decision trees.
 - LightGBM
 
   
